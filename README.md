@@ -3,7 +3,10 @@
 Proyecto backend Restful API creado como parte de la prueba técnica en el proceso de selección con la empresa Innovati.
 <br>
 <strong>Autor: Julián Andrés Rodríguez Guerra</strong>
-<strong>Video de explicación del proyecto <link>https://www.youtube.com</link></strong>
+<br>
+<strong>Video de explicación del proyecto: <link>https://www.youtube.com/watch?v=cWl2XnUk9YI</link></strong>
+<br>
+<strong>Link de acceso de la Web App Aplication en Microsoft Azure: <link>https://innovati-university-api.azurewebsites.net/api/</link></strong>
 
 ## Tecnologías y herramientas utilizadas:
 
